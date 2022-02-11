@@ -1,0 +1,5 @@
+{
+    "Email": "your email",
+    "password": "your password",
+    "SmtpServer": "your smtp"
+}

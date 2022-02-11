@@ -1,0 +1,14 @@
+﻿Build started...
+1>------ Build started: Project: Smtp, Configuration: Debug Any CPU ------
+1>E:\C# projects\MailSender\Smtp\User.cs(5,23,5,31): warning CS8618: Non-nullable property 'Password' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>E:\C# projects\MailSender\Smtp\User.cs(6,23,6,28): warning CS8618: Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>E:\C# projects\MailSender\Smtp\User.cs(7,23,7,33): warning CS8618: Non-nullable property 'SmtpServer' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>E:\C# projects\MailSender\Smtp\JSONRepository.cs(13,21,13,62): warning CS8601: Possible null reference assignment.
+1>E:\C# projects\MailSender\Smtp\JSONRepository.cs(10,27,10,46): warning CS1998: This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
+1>E:\C# projects\MailSender\Smtp\JSONRepository.cs(6,21,6,26): warning CS8618: Non-nullable field '_user' must contain a non-null value when exiting constructor. Consider declaring the field as nullable.
+1>E:\C# projects\MailSender\Smtp\EmailService.cs(8,32,8,42): warning CS8618: Non-nullable field 'repository' must contain a non-null value when exiting constructor. Consider declaring the field as nullable.
+1>Smtp -> E:\C# projects\MailSender\Smtp\bin\Debug\net6.0\Smtp.dll
+1>Done building project "Smtp.csproj".
+2>------ Build started: Project: MailSender, Configuration: Debug Any CPU ------
+2>MailSender -> E:\C# projects\MailSender\MailSender\bin\Debug\net6.0\MailSender.dll
+========== Build: 2 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
